@@ -1,0 +1,1 @@
+start powershell.exe -ExecutionPolicy RemoteSigned -File %~dp0ObtainUSBTreeView.ps1
